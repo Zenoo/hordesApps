@@ -1,0 +1,13 @@
+body{
+	background-image:url("../resources/background.png");
+	font-family: 'visitor';}
+@font-face {
+    font-family: 'visitor';
+    src: url('../resources/fonts/visitor1-webfont.eot');
+    src: url('../resources/fonts/visitor1-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../resources/fonts/visitor1-webfont.woff') format('woff'),
+         url('../resources/fonts/visitor1-webfont.ttf') format('truetype'),
+         url('../resources/fonts/visitor1-webfont.svg#visitor_tt1_brkregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
