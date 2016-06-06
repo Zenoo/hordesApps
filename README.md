@@ -4,7 +4,7 @@ This GitHub gathers every external application from **Zenoo** within the Motion-
 
 ## Informations
 
-Every different application will be marked with an **[APP]**. Every other directories are includes and resources.
+Every application will be marked with an **[APP]** tag. Every other folders are includes and resources.
 
 ### Testing
 
