@@ -16,7 +16,7 @@ The code is only here for information purposes.
 ## Applications list
 
 * Watch'Hordes
- ```
+```
 Sums up every pictogram from every citizen in your Hordes.fr city on one page.
 Multiple orders possible.
 ```
